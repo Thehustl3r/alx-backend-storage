@@ -1,2 +1,2 @@
 // script to count  in the collection in mongodb
-db.school.countDocuments()
+db.school.count()
