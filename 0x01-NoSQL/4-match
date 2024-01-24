@@ -1,0 +1,2 @@
+// script to list a match in the collection in mongodb
+db.school.find({"name": "Holberton school"})

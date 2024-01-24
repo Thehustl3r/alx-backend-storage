@@ -1,0 +1,2 @@
+// script to list all in the collection in mongodb
+db.school.find()
