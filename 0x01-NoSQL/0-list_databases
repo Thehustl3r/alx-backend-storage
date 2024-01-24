@@ -1,0 +1,3 @@
+// script to list all databases in MOngoDB
+
+show dbs
