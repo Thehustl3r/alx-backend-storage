@@ -1,6 +1,6 @@
 // script to update in the collection in mongodb
 db.school.findAndModify({
     query : {name: "Holberton school"},
-    update: {address: "972 Mission street"}
+    update: { $set: { address: "972 Mission street" } }
 }
 )
