@@ -1,0 +1,2 @@
+// script to delete match in the collection in mongodb
+db.school.deleteOne({"name": "Holberton school"})
